@@ -2150,7 +2150,7 @@ align-items: flex-end;
     }
 
     #hero{
-        background-position: center;
+        background-position: right;
     }
 
     /* FLECHA SECCION CONTACTO */
@@ -2435,7 +2435,7 @@ align-items: flex-end;
     }
 
     #hero{
-        background-position: center;
+        background-position: right;
     }
 
     .hero-titulo{
@@ -2668,7 +2668,7 @@ align-items: flex-end;
     }
 
     #hero{
-        background-position: center;
+        background-position: right;
     }
 
     .hero-titulo{
