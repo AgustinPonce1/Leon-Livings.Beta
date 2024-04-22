@@ -2654,6 +2654,25 @@ align-items: flex-end;
         width: 70px;
     }
 
+    /* PRODUCTOS */
+    
+    .image-sillas-cont {
+        justify-content: center;
+    }
+
+    .image-reposeras-cont {
+        justify-content: center;
+    }
+    
+    .image-pergolas-cont {
+        justify-content: center;
+    }
+
+    .image-barras-cont {
+        flex-direction: column;
+        align-items: center; 
+    }
+
 }
 
     /* RESPONSIVE A 460px - 560px */
@@ -2890,6 +2909,25 @@ align-items: flex-end;
         width: 50px;
     }
 
+    /* PRODUCTOS */
+    
+    .image-sillas-cont {
+        justify-content: center;
+    }
+
+    .image-reposeras-cont {
+        justify-content: center;
+    }
+    
+    .image-pergolas-cont {
+        justify-content: center;
+    }
+
+    .image-barras-cont {
+        flex-direction: column;
+        align-items: center; 
+    }
+
 }
 
 @media (max-width: 440px){
@@ -2905,6 +2943,26 @@ align-items: flex-end;
     #hero{
         background-position: right;
     }
+
+    /* PRODUCTOS */
+    
+    .image-sillas-cont {
+        justify-content: center;
+    }
+
+    .image-reposeras-cont {
+        justify-content: center;
+    }
+    
+    .image-pergolas-cont {
+        justify-content: center;
+    }
+
+    .image-barras-cont {
+        flex-direction: column;
+        align-items: center;
+    }
+    
 }
 
 @media (min-width: 380px) and (max-width: 440px){
@@ -3123,6 +3181,25 @@ align-items: flex-end;
     .material-image img {
         width: 100%;
         max-height: 180px;
+    }
+
+    /* PRODUCTOS */
+    
+    .image-sillas-cont {
+        justify-content: center;
+    }
+
+    .image-reposeras-cont {
+        justify-content: center;
+    }
+    
+    .image-pergolas-cont {
+        justify-content: center;
+    }
+
+    .image-barras-cont {
+        flex-direction: column;
+        align-items: center;
     }
 
 }
@@ -3366,6 +3443,25 @@ align-items: flex-end;
 
     .interactive-button img {
         width: 50px;
+    }
+
+    /* PRODUCTOS */
+    
+    .image-sillas-cont {
+        justify-content: center;
+    }
+
+    .image-reposeras-cont {
+        justify-content: center;
+    }
+    
+    .image-pergolas-cont {
+        justify-content: center;
+    }
+
+    .image-barras-cont {
+        flex-direction: column;
+        align-items: center;
     }
 
 }
