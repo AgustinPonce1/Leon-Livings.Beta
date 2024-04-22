@@ -854,11 +854,12 @@ align-items: flex-end;
   z-index: 1;
 }
 
+#sillones{
+    padding-top: 100px;
+}
+
 .seccion-sillones {
     max-width: 1035px;
-    margin: 100px auto;
-    margin-top: 60px;
-    padding-top: 100px;
 }
 
 .seccions-title{
@@ -2149,7 +2150,7 @@ align-items: flex-end;
     }
 
     #hero{
-        background-position: left;
+        background-position: center;
     }
 
     /* FLECHA SECCION CONTACTO */
@@ -2434,7 +2435,7 @@ align-items: flex-end;
     }
 
     #hero{
-        background-position: left;
+        background-position: center;
     }
 
     .hero-titulo{
@@ -2667,7 +2668,7 @@ align-items: flex-end;
     }
 
     #hero{
-        background-position: left;
+        background-position: center;
     }
 
     .hero-titulo{
