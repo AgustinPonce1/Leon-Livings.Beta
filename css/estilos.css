@@ -2903,7 +2903,7 @@ align-items: flex-end;
     /* IMAGENES HERO EN MOBILE */
 
     #hero{
-        background-position: center bottom;
+        background-position: right;
     }
 }
 
@@ -3157,7 +3157,7 @@ align-items: flex-end;
     }
 
     #hero{
-        background-position: left;
+        background-position: right;
     }
 
     .hero-titulo{
